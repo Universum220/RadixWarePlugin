@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.jetbrains.radixTest.main" target="1.8" />
+      <module name="com.jetbrains.radixTest.test" target="1.8" />
+      <module name="radixWare.testRW.main" target="1.8" />
+      <module name="radixWare.testRW.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
